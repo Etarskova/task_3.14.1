@@ -1,5 +1,6 @@
 # Инструкция по работе с GIT 
 LICENSE: [MIT](license.md)
+
 ![git-logo](GITlogo%20Small.png)
 ---
 
