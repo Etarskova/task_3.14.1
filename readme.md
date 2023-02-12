@@ -5,7 +5,9 @@ LICENSE: [MIT](license.md)
 ---
 
 ### Содержание:
-1. Команда [git init](Git_init.md)
-2. Команда [git add](add.md)
----
-
+1. Команда [Git init](Git_init.md)
+2. Команда [Git add](add.md)
+3. Команда [Git commit](commit.md)
+4. Команда [Git status](status.md)
+5. Команда [Git push](push.md)
+5. Команда [Git clone](clone.md)
