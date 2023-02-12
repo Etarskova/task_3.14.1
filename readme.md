@@ -5,7 +5,7 @@ LICENSE: [MIT](license.md)
 ---
 
 ### Содержание:
-1. Что-то
+1. Команда [git init](Git_init.md)
 2. Команда [git add](add.md)
 ---
 
