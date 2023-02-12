@@ -15,4 +15,5 @@ git status
 
 ![image](img_status.png)
 
+[<к предыдущей главе](commit.md)
 [следующая глава>](push.md)

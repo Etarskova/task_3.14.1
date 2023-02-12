@@ -15,3 +15,5 @@ git clone <https://name-of-the-repository-link>
 ![image](img_for_clone.png)
 
 Это создаст копию проекта в вашей локальной рабочей области, чтобы вы могли начать с ним работать.
+
+[<к предыдущей главе](push.md)

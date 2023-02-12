@@ -22,4 +22,5 @@ git add *.txt
 git add -u
 ```
 
+[<к предыдущей главе](Git_init.md)
 [следующая глава>](commit.md)
